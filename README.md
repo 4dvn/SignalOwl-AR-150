@@ -1,6 +1,6 @@
 # SignalOwl-AR150
 
-Test with GL-INET AR-150
+Patched to GL-INET AR-150
 
 # Payload Library for the Signal Owl by Hak5
 
